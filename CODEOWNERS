@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @kritikalita
+/src/backend/database.py      @kritikalita
+/src/backend/routers/auth.py  @kritikalita
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @kritikalita
